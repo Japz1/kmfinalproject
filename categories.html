@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Jelajahi semua kategori pengetahuan beasiswa — dari informasi program hingga persiapan seleksi." />
+  <meta name="theme-color" content="#001242" />
+  <title>Kategori — Beasiswa Knowledge Base</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="assets/js/tailwind-config.js?v=3"></script>
+</head>
+<body class="bg-paper font-sans text-ink antialiased">
+
+<!-- NAVBAR -->
+<header id="navbar" class="sticky top-0 z-50 border-b border-line/90 bg-white/90 backdrop-blur-md"></header>
+
+<!-- PAGE HEADER -->
+<div class="relative overflow-hidden pb-10 pt-12 text-white md:pb-14 md:pt-16">
+  <div class="absolute inset-0 bg-[linear-gradient(135deg,#000022_0%,#001242_48%,#005E7C_100%)]" aria-hidden="true"></div>
+  <div class="absolute inset-0 bg-[radial-gradient(circle_at_15%_20%,rgba(0,148,198,0.18),transparent_30%)]" aria-hidden="true"></div>
+  <div class="container relative">
+    <div class="mb-3 inline-flex items-center gap-1.5 rounded-full bg-white/10 px-3 py-1 text-xs font-semibold text-accent-light">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="12" cy="12" r="5"/></svg>
+      Jelajahi Topik
+    </div>
+    <h1 class="mb-2.5 text-balance font-display text-[clamp(1.7rem,4vw,2.45rem)] font-bold leading-[1.1] tracking-[-0.03em]">Kategori Pengetahuan</h1>
+    <p class="max-w-[58ch] text-[0.9688rem] leading-[1.65] text-white/80">Temukan informasi beasiswa yang paling relevan berdasarkan topik yang Anda butuhkan.</p>
+    <div class="mt-4 flex items-center gap-1.5 text-[0.8125rem] text-white/70">
+      <svg class="h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      <span id="totalCategories">5</span> kategori tersedia
+    </div>
+  </div>
+</div>
+
+<!-- CATEGORIES -->
+<section class="py-10 md:py-12">
+  <div class="container">
+    <div id="categoriesGrid" class="grid items-stretch gap-5 md:grid-cols-2">
+      <!-- injected by categories.js -->
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="border-t border-line bg-surface">
+  <div class="container py-12 text-center">
+    <div class="mb-2 text-[0.72rem] font-bold uppercase tracking-[0.13em] text-accent-ink">Perpustakaan</div>
+    <h2 class="mb-3 text-balance font-display text-[clamp(1.45rem,3vw,2rem)] font-bold leading-[1.1] tracking-tight text-primary">Semua Artikel dalam Satu Tempat</h2>
+    <p class="mx-auto mb-6 max-w-[44ch] text-[0.9375rem] text-muted">
+      Gunakan pencarian dan filter kategori di Perpustakaan untuk menemukan artikel yang tepat.
+    </p>
+    <a href="library.html" class="inline-flex min-h-[44px] items-center gap-2 rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-primary-dark transition hover:bg-accent-strong">
+      Buka Perpustakaan
+      <svg class="h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+    </a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer id="footer" class="mt-16 bg-primary-dark text-white shadow-[inset_0_4px_0_#0094C6]"></footer>
+
+<script src="assets/js/app.js?v=3"></script>
+<script src="assets/js/categories.js?v=2"></script>
+</body>
+</html>

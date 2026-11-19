@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Scholarship Knowledge Base — Platform pengetahuan terpusat tentang beasiswa untuk mahasiswa Indonesia." />
+  <meta name="theme-color" content="#001242" />
+  <title>Beasiswa Knowledge Base — Beranda</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="assets/js/tailwind-config.js?v=3"></script>
+</head>
+<body class="bg-paper font-sans text-ink antialiased">
+
+<!-- NAVBAR -->
+<header id="navbar" class="sticky top-0 z-50 border-b border-line/90 bg-white/90 backdrop-blur-md"></header>
+
+<!-- HERO -->
+<section class="relative overflow-hidden pb-24 pt-14 text-white md:pb-32 md:pt-20" aria-label="Hero section">
+  <div class="absolute inset-0 bg-[linear-gradient(135deg,#000022_0%,#001242_48%,#005E7C_100%)]" aria-hidden="true"></div>
+  <div class="absolute inset-0"
+       style="background-image:url(data:image/svg+xml,%3Csvg%20width=%2760%27%20height=%2760%27%20viewBox=%270%200%2060%2060%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%20fill=%27none%27%20fill-rule=%27evenodd%27%3E%3Cg%20fill=%27%23ffffff%27%20fill-opacity=%270.035%27%3E%3Cpath%20d=%27M36%2034v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6%2034v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6%204V0H4v4H0v2h4v4h2V6h4V4H6z%27/%3E%3C/g%3E%3C/g%3E%3C/svg%3E)"
+       aria-hidden="true"></div>
+
+  <div class="container relative flex flex-col items-center gap-5 text-center md:gap-6">
+    <span class="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-3.5 py-1.5 text-[0.8125rem] font-semibold tracking-wide text-accent-light backdrop-blur-sm">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="12" cy="12" r="5"/></svg>
+      Basis Pengetahuan Beasiswa
+    </span>
+
+    <h1 class="max-w-[22ch] text-balance font-display text-[clamp(2.15rem,5.6vw,3.65rem)] font-bold leading-[1.04] tracking-[-0.035em]">
+      Panduan menemukan dan <span class="text-accent-light">meraih beasiswa</span>
+    </h1>
+
+    <p class="max-w-[58ch] text-pretty text-[clamp(0.99rem,1.9vw,1.0625rem)] leading-[1.7] text-white/80">
+      Eksplorasi peluang beasiswa, pahami persyaratan lamaran, dan persiapkan diri untuk proses seleksi melalui sumber pengetahuan terpusat dalam bahasa Indonesia.
+    </p>
+
+    <!-- Search -->
+    <div class="mt-2 w-full max-w-[620px]">
+      <form id="heroSearchForm" class="relative flex w-full items-center" role="search" aria-label="Cari artikel beasiswa">
+        <svg class="pointer-events-none absolute left-4 top-1/2 z-10 h-[18px] w-[18px] -translate-y-1/2 text-muted" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input
+          id="heroSearch"
+          class="w-full min-h-[56px] rounded-md border-[1.5px] border-line bg-white py-4 pl-11 pr-[8.1rem] text-base text-ink shadow-lg outline-none transition placeholder:text-muted focus:border-navy focus:ring-4 focus:ring-[rgba(0,148,198,0.20)] max-[420px]:pr-[7.4rem]"
+          type="search"
+          placeholder="Cari beasiswa, tips, atau panduan..."
+          autocomplete="off"
+          enterkeyhint="search"
+          aria-label="Cari artikel"
+        />
+        <button type="button" class="absolute right-[7.1rem] top-1/2 z-10 hidden h-8 w-8 -translate-y-1/2 items-center justify-center rounded-full bg-surface-alt text-base text-muted transition hover:bg-line hover:text-ink max-[420px]:right-[6.5rem]"
+                id="heroSearchClear" aria-label="Hapus pencarian">&times;</button>
+        <button type="submit" class="absolute right-2 top-1/2 z-10 inline-flex min-h-[44px] -translate-y-1/2 items-center gap-1.5 rounded-[10px] bg-accent px-4 py-2 text-[0.8125rem] font-bold text-primary-dark transition hover:bg-accent-strong max-[420px]:px-3">
+          Cari
+          <svg class="h-[15px] w-[15px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+      </form>
+    </div>
+
+    <div class="flex w-full max-w-[340px] flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center">
+      <a href="library.html" class="inline-flex w-full min-h-[48px] items-center justify-center gap-2 rounded-md bg-accent px-7 py-3 text-[0.9rem] font-bold text-primary-dark transition hover:-translate-y-px hover:bg-accent-strong sm:w-auto">Jelajahi Perpustakaan</a>
+      <a href="categories.html" class="inline-flex w-full min-h-[48px] items-center justify-center gap-2 rounded-md border-[1.5px] border-white/35 bg-white/5 px-7 py-3 text-[0.9rem] font-bold text-white transition hover:border-white/50 hover:bg-white/15 sm:w-auto">Lihat Semua Kategori</a>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<div class="container">
+  <div id="statsStrip" class="relative z-10 -mt-12 mb-11 grid grid-cols-2 gap-px overflow-hidden rounded-lg border border-line bg-line shadow-md md:grid-cols-4">
+    <!-- injected by home.js -->
+  </div>
+</div>
+
+<!-- FEATURED CATEGORIES -->
+<section class="py-12 md:py-14">
+  <div class="container">
+    <div class="mb-9 flex flex-col items-start justify-between gap-5 md:flex-row md:items-end">
+      <div>
+        <div class="mb-2 text-[0.72rem] font-bold uppercase tracking-[0.13em] text-accent-ink">Jelajahi Topik</div>
+        <h2 class="text-balance font-display text-[clamp(1.45rem,3vw,2rem)] font-bold leading-[1.1] tracking-tight text-primary">Kategori Pengetahuan</h2>
+        <p class="mt-2 max-w-[60ch] text-[0.9688rem] text-muted">Temukan informasi berdasarkan topik yang paling relevan dengan kebutuhan Anda.</p>
+      </div>
+      <a href="categories.html" class="inline-flex min-h-[44px] items-center gap-1.5 whitespace-nowrap font-semibold text-primary underline-offset-4 hover:underline">
+        Semua Kategori
+        <svg class="h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div id="featuredCategories" class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED KNOWLEDGE -->
+<section class="border-y border-line bg-surface py-12 md:py-14">
+  <div class="container">
+    <div class="mb-9 flex flex-col items-start justify-between gap-5 md:flex-row md:items-end">
+      <div>
+        <div class="mb-2 text-[0.72rem] font-bold uppercase tracking-[0.13em] text-accent-ink">Pilihan Editor</div>
+        <h2 class="text-balance font-display text-[clamp(1.45rem,3vw,2rem)] font-bold leading-[1.1] tracking-tight text-primary">Artikel Unggulan</h2>
+        <p class="mt-2 max-w-[60ch] text-[0.9688rem] text-muted">Artikel-artikel pilihan yang paling relevan untuk memulai perjalanan beasiswa Anda.</p>
+      </div>
+      <a href="library.html" class="inline-flex min-h-[44px] items-center gap-1.5 whitespace-nowrap font-semibold text-primary underline-offset-4 hover:underline">
+        Lihat Semua
+        <svg class="h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div id="featuredKnowledge" class="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- LATEST KNOWLEDGE -->
+<section class="py-12 md:py-14">
+  <div class="container">
+    <div class="mb-9 flex flex-col items-start justify-between gap-5 md:flex-row md:items-end">
+      <div>
+        <div class="mb-2 text-[0.72rem] font-bold uppercase tracking-[0.13em] text-accent-ink">Terbaru</div>
+        <h2 class="text-balance font-display text-[clamp(1.45rem,3vw,2rem)] font-bold leading-[1.1] tracking-tight text-primary">Artikel Terkini</h2>
+        <p class="mt-2 max-w-[60ch] text-[0.9688rem] text-muted">Artikel yang baru ditambahkan ke dalam Knowledge Base.</p>
+      </div>
+      <a href="library.html" class="inline-flex min-h-[44px] items-center gap-1.5 whitespace-nowrap font-semibold text-primary underline-offset-4 hover:underline">
+        Perpustakaan
+        <svg class="h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div id="latestKnowledge" class="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer id="footer" class="mt-16 bg-primary-dark text-white shadow-[inset_0_4px_0_#0094C6]"></footer>
+
+<script src="assets/js/app.js?v=3"></script>
+<script src="assets/js/home.js?v=2"></script>
+</body>
+</html>
