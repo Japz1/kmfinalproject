@@ -1,44 +1,44 @@
 [
   {
     "id": "001",
-    "title": "Pengenalan Program dan Tujuan Beasiswa",
+    "title": "Pengenalan Program dan Tujuan Beasiswa Pemerintah",
     "slug": "pengenalan-program-dan-tujuan-beasiswa",
     "categoryId": "CAT001",
     "subCategory": "Pengenalan & Definisi Program Beasiswa",
-    "description": "Penjelasan konsep dasar beasiswa, perbedaan skema Beasiswa Unggulan dengan KIP Kuliah, dan sasaran bantuan pembiayaan.",
+    "description": "Pengenalan skema Beasiswa Unggulan, rincian bantuan biaya hidup KIP Kuliah, dan sasaran beasiswa pemerintah.",
     "keywords": [
       "beasiswa",
-      "pengenalan beasiswa",
       "beasiswa unggulan",
       "kip kuliah",
-      "pembiayaan pendidikan",
-      "tujuan beasiswa"
+      "bantuan biaya hidup",
+      "kategori beasiswa",
+      "pembiayaan pendidikan"
     ],
     "content": {
-      "overview": "Beasiswa memberikan dukungan pembiayaan pendidikan bagi penerima untuk membantu menyelesaikan studi. Penyelenggara menentukan bentuk dan sasaran bantuan sesuai ketentuan program masing-masing.",
+      "overview": "Beasiswa pemerintah memberikan bantuan biaya pendidikan bagi putra-putri terbaik Indonesia untuk melanjutkan studi ke jenjang pendidikan tinggi. Penyelenggara membedakan bentuk pembiayaan sesuai sasaran program masing-masing.",
       "sections": [
         {
-          "heading": "Perbedaan Program Beasiswa dan Bantuan Biaya",
-          "body": "Beasiswa Unggulan mendanai masyarakat berprestasi dan penyandang disabilitas pada jenjang D4, S1, S2, dan S3. Program ini berfokus pada penghargaan dan dukungan dana bagi insan berprestasi. KIP Kuliah memberikan bantuan biaya pendidikan dari pemerintah bagi lulusan SMA atau sederajat dengan potensi akademik baik yang menghadapi keterbatasan ekonomi."
+          "heading": "Kategori dan Sasaran Beasiswa Unggulan",
+          "body": "Beasiswa Unggulan Kemendikdasmen ditujukan untuk jenjang S1, S2, dan S3. Program ini mencakup empat kategori utama: Masyarakat Berprestasi (prestasi akademik atau nonakademik tingkat nasional maupun internasional), Pegawai Kementerian, Penyandang Disabilitas, dan Penghargaan."
         },
         {
-          "heading": "Poin Utama Pemahaman Program",
-          "body": "Setiap program memiliki sasaran penerima berbeda. Ada program yang memprioritaskan prestasi akademik, ada yang mengutamakan kondisi ekonomi pendaftar, dan ada yang menetapkan kriteria khusus. Calon pendaftar wajib memahami tujuan program sebelum mengajukan berkas."
+          "heading": "Bentuk Bantuan dan Biaya Hidup KIP Kuliah",
+          "body": "KIP Kuliah Kemdiktisaintek memberikan bantuan biaya pendidikan bagi lulusan SMA atau sederajat dengan potensi akademik baik tetapi memiliki keterbatasan ekonomi. Penerima dibebaskan dari biaya kuliah ke perguruan tinggi dan menerima bantuan biaya hidup bulanan berkisar antara Rp800.000 sampai Rp1.400.000 per bulan sesuai indeks wilayah studi."
         }
       ],
       "tips": [
-        "Baca pedoman resmi untuk mengenali apakah beasiswa mengutamakan prestasi atau kondisi ekonomi.",
-        "Pilih program yang selaras dengan jenjang studi dan kriteria diri Anda."
+        "Pahami apakah beasiswa yang Anda tuju merupakan skema penghargaan prestasi atau bantuan keterbatasan ekonomi.",
+        "Periksa besaran bantuan biaya hidup sesuai klaster wilayah perguruan tinggi tujuan Anda."
       ],
-      "notes": "Materi eksplisit dirangkum dari FAQ resmi Beasiswa Unggulan 2026 dan pedoman KIP Kuliah Kemdiktisaintek."
+      "notes": "Disarikan dari Pedoman dan FAQ Beasiswa Unggulan 2026 serta Panduan dan FAQ KIP Kuliah Kemdiktisaintek."
     },
     "source": {
-      "name": "Puslapdik Kemendikdasmen & Kemdiktisaintek (FAQ Beasiswa Unggulan 2026 & FAQ KIP Kuliah)",
+      "name": "Puslapdik Kemendikdasmen & Kemdiktisaintek",
       "type": "Official Policy / Government Portal",
-      "url": "https://beasiswaunggulan.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://beasiswaunggulan.kemendikdasmen.go.id",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": true,
     "publishedAt": "2026-11-12"
   },
@@ -58,73 +58,73 @@
       "jenjang studi"
     ],
     "content": {
-      "overview": "Portal resmi SatuBeasiswa menyediakan direktori program terintegrasi dari berbagai instansi pemerintah dan mitra lembaga untuk mempermudah pencarian peluang studi.",
+      "overview": "SatuBeasiswa merupakan portal resmi yang membantu pengguna mencari informasi peluang beasiswa dari berbagai kementerian dan lembaga secara terintegrasi.",
       "sections": [
         {
-          "heading": "Fitur Filter dan Pencarian SatuBeasiswa",
-          "body": "Pencari beasiswa dapat menyaring data berdasarkan jenjang pendidikan, lokasi studi, skema pendanaan, status pendaftaran, perguruan tinggi tujuan, negara tujuan, serta batas waktu pendaftaran."
+          "heading": "Fungsi Fitur Pencarian SatuBeasiswa",
+          "body": "Pengguna memanfaatkan fitur pencarian SatuBeasiswa sebagai sarana awal untuk menemukan program yang cocok dengan kebutuhan studi. Portal menyediakan filter pencarian berdasarkan jenjang pendidikan, lokasi studi, skema pendanaan, status pendaftaran, serta perguruan tinggi tujuan."
         },
         {
-          "heading": "Langkah Menemukan Program yang Tepat",
-          "body": "1) Buka portal pencarian beasiswa. 2) Tentukan jenjang pendidikan yang dicari. 3) Gunakan filter sesuai kebutuhan. 4) Periksa informasi kuota, persyaratan, manfaat, dan proses seleksi. 5) Kunjungi situs resmi penyelenggara untuk pendaftaran pada sistem masing-masing."
+          "heading": "Langkah Eksplorasi Peluang",
+          "body": "1) Akses portal resmi SatuBeasiswa. 2) Masukkan kata kunci atau terapkan filter jenjang pendidikan. 3) Buka detail informasi program untuk memeriksa persyaratan, kuota, manfaat, dan batas pendaftaran. 4) Kunjungi situs web resmi masing-masing penyelenggara untuk melakukan pendaftaran sistem."
         }
       ],
       "tips": [
-        "Gunakan kombinasi filter jenjang studi dan skema pendanaan untuk mempersempit daftar pilihan.",
-        "Buka tautan situs resmi penyelenggara untuk memastikan ketentuan pendaftaran terbaru."
+        "Gunakan filter jenjang studi dan skema pendanaan untuk mempersempit daftar peluang.",
+        "Selalu tindak lanjuti informasi yang ditemukan dengan membuka tautan situs web resmi penyelenggara."
       ],
-      "notes": "Informasi dirangkum dari fitur resmi portal SatuBeasiswa Kemdiktisaintek."
+      "notes": "Sumber: Portal Pencarian SatuBeasiswa Kemdiktisaintek."
     },
     "source": {
-      "name": "Kemdiktisaintek (Portal SatuBeasiswa - Fitur Cari Beasiswa)",
+      "name": "Kemdiktisaintek (Portal SatuBeasiswa)",
       "type": "Official Policy / Government Portal",
-      "url": "https://beasiswa.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://satubeasiswa.kemdiktisaintek.go.id/",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
   {
     "id": "003",
-    "title": "Memahami Persyaratan dan Kriteria Penerima Beasiswa",
+    "title": "Memahami Persyaratan Umum, Khusus, dan Verifikasi Kelayakan",
     "slug": "memahami-persyaratan-dan-kriteria-penerima",
     "categoryId": "CAT003",
     "subCategory": "Kriteria & Persyaratan Kelayakan",
-    "description": "Ketentuan umum dan khusus penerima beasiswa pemerintah, meliputi batasan usia, jenjang studi, syarat IPK, dan verifikasi ekonomi.",
+    "description": "Persyaratan umum institusi, ketentuan khusus jenjang, pembuktian ekonomi KIP Kuliah, dan verifikasi kampus.",
     "keywords": [
       "kriteria beasiswa",
       "persyaratan penerima",
-      "syarat ipk",
-      "kondisi ekonomi",
-      "akreditasi prodi",
+      "syarat khusus",
+      "verifikasi ekonomi",
+      "disabilitas",
       "kelayakan beasiswa"
     ],
     "content": {
-      "overview": "Setiap program beasiswa menetapkan persyaratan berbeda. Calon pendaftar wajib membaca pedoman program yang akan diikuti agar pengajuan berkas tepat sasaran.",
+      "overview": "Persyaratan beasiswa terbagi ke dalam persyaratan umum dan khusus. Calon pendaftar wajib memeriksa ketentuan ini sebelum mengajukan berkas ke portal seleksi.",
       "sections": [
         {
-          "heading": "Kriteria Beasiswa Prestasi dan Bantuan Biaya",
-          "body": "Beasiswa Unggulan Masyarakat Berprestasi mensyaratkan rekomendasi institusi, kepatuhan batas beasiswa sejenis, dan akreditasi kampus. KIP Kuliah 2026 menetapkan syarat siswa SMA atau sederajat lulusan tahun berjalan atau dua tahun sebelumnya, memiliki potensi akademik baik, memiliki keterbatasan ekonomi berdokumen sah, serta lolos seleksi masuk perguruan tinggi pada program studi terakreditasi."
+          "heading": "Persyaratan Umum dan Khusus Beasiswa Unggulan",
+          "body": "Persyaratan umum Beasiswa Unggulan mencakup rekomendasi institusi terkait, status penerimaan beasiswa sejenis, dan akreditasi perguruan tinggi tujuan. Persyaratan khusus mengatur batasan tahun kelulusan atau usia, LoA atau surat aktif kuliah, IPK, sertifikat bahasa, rencana studi atau proposal, serta esai. Pendaftar kategori Penyandang Disabilitas melampirkan dokumen keterangan disabilitas resmi."
         },
         {
-          "heading": "Daftar Periksa Sebelum Mendaftar",
-          "body": "Periksa batas usia atau tahun kelulusan ijazah, jenjang pendidikan yang diizinkan, batas nilai rapor atau IPK, berkas kondisi ekonomi jika disyaratkan, serta status akreditasi perguruan tinggi dan program studi tujuan."
+          "heading": "Persyaratan dan Verifikasi KIP Kuliah",
+          "body": "KIP Kuliah diperuntukkan bagi lulusan SMA sederajat tahun berjalan atau maksimal dua tahun sebelumnya yang memiliki potensi akademik baik dan keterbatasan ekonomi berdokumen sah. Setelah lulus seleksi masuk dan daftar ulang, perguruan tinggi memverifikasi data lapangan. Jika verifikasi membuktikan pendaftar mampu secara ekonomi, penetapan beasiswa dibatalkan."
         }
       ],
       "tips": [
-        "Pastikan tahun kelulusan ijazah Anda masih masuk dalam rentang waktu yang diizinkan program beasiswa.",
-        "Verifikasi status akreditasi program studi kampus tujuan Anda pada pangkalan data BAN-PT atau LAM."
+        "Pastikan data dan dokumen ekonomi yang Anda serahkan sah dan dapat dipertanggungjawabkan saat verifikasi kampus.",
+        "Untuk kategori disabilitas, siapkan surat keterangan dokter atau instansi berwenang sesuai format pedoman."
       ],
-      "notes": "Rangkuman bersumber dari FAQ Persyaratan Beasiswa Unggulan 2026 dan FAQ Pendaftaran KIP Kuliah 2026."
+      "notes": "Rujukan materi mengacu pada Pedoman Beasiswa Unggulan 2026 dan Panduan KIP Kuliah Kemdiktisaintek."
     },
     "source": {
       "name": "Puslapdik Kemendikdasmen & Kemdiktisaintek",
       "type": "Official Policy / Government Portal",
-      "url": "https://puslapdik.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://kip-kuliah.kemdiktisaintek.go.id/panduan",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
@@ -134,7 +134,7 @@
     "slug": "menyiapkan-dokumen-administrasi-beasiswa",
     "categoryId": "CAT002",
     "subCategory": "Dokumen Administrasi & Berkas Pendaftaran",
-    "description": "Daftar berkas administrasi wajib, surat rekomendasi, transkrip, sertifikat kemampuan bahasa, dan format pengunggahan dokumen.",
+    "description": "Daftar berkas administrasi wajib, surat rekomendasi, transkrip, sertifikat UKBI/bahasa Inggris, dan LoA.",
     "keywords": [
       "dokumen beasiswa",
       "berkas administrasi",
@@ -145,30 +145,30 @@
       "ktp npwp"
     ],
     "content": {
-      "overview": "Dokumen administrasi berfungsi membuktikan identitas diri, status pendidikan, rekam jejak prestasi, dan kelayakan calon penerima beasiswa.",
+      "overview": "Dokumen administrasi membuktikan identitas kependudukan, status perkuliahan, rekam jejak prestasi, dan kualifikasi calon penerima beasiswa.",
       "sections": [
         {
-          "heading": "Daftar Dokumen Pendaftaran Resmi",
-          "body": "Berdasarkan pedoman Beasiswa Unggulan 2026, dokumen pendaftaran mencakup: KTP, NPWP, kartu mahasiswa atau surat keterangan aktif kuliah, Letter of Acceptance (LoA), KHS/KRS, ijazah dan transkrip nilai, sertifikat UKBI, rencana studi atau proposal sesuai jenjang, surat rekomendasi, surat pernyataan, sertifikat prestasi, serta berkas tambahan sesuai ketentuan program."
+          "heading": "Daftar Dokumen Resmi Pendaftaran",
+          "body": "Dokumen pendaftaran Beasiswa Unggulan mencakup: KTP, NPWP, kartu mahasiswa atau surat aktif kuliah, Letter of Acceptance (LoA), KHS/KRS, ijazah dan transkrip nilai, sertifikat UKBI atau bahasa Inggris, rencana studi atau proposal sesuai jenjang, surat rekomendasi, surat pernyataan, dan sertifikat prestasi."
         },
         {
-          "heading": "Kesesuaian Dokumen dengan Jenjang Studi",
-          "body": "Tidak semua dokumen berlaku untuk setiap pendaftar. Jenis dokumen harus disesuaikan dengan jenjang pendidikan dan kategori beasiswa yang dipilih. Jenjang sarjana mengutamakan berkas akademik dasar, sedangkan jenjang pascasarjana mewajibkan proposal riset dan sertifikat kemahiran bahasa."
+          "heading": "Kesesuaian dengan Jenjang dan Kategori",
+          "body": "Dokumen yang harus disiapkan berbeda menurut jenjang pendidikan (S1/D4, S2, S3) dan kategori pendaftar. Pastikan seluruh dokumen pendukung seperti surat rekomendasi dan surat keterangan masih berlaku saat diunggah."
         }
       ],
       "tips": [
-        "Simpan berkas dalam format digital berkualitas jelas dengan ukuran file sesuai kapasitas server portal.",
-        "Minta surat rekomendasi dan surat keterangan aktif kuliah jauh sebelum masa pendaftaran ditutup."
+        "Siapkan sertifikat kemahiran bahasa (UKBI atau bahasa Inggris) jauh sebelum masa pendaftaran dibuka.",
+        "Periksa masa berlaku surat rekomendasi dan pastikan tanda tangan pejabat terkait lengkap."
       ],
-      "notes": "Rujukan dokumen bersumber dari FAQ Dokumen Pendaftaran dan Unduhan Pedoman Beasiswa Unggulan 2026."
+      "notes": "Disusun dari Pedoman dan FAQ Beasiswa Unggulan 2026 Puslapdik Kemendikdasmen."
     },
     "source": {
-      "name": "Puslapdik Kemendikdasmen (FAQ Dokumen Beasiswa Unggulan)",
+      "name": "Puslapdik Kemendikdasmen (Dokumen Beasiswa Unggulan)",
       "type": "Official Policy / Government Portal",
-      "url": "https://beasiswaunggulan.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://beasiswaunggulan.kemendikdasmen.go.id",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": true,
     "publishedAt": "2026-11-12"
   },
@@ -192,7 +192,7 @@
       "sections": [
         {
           "heading": "Kewajiban Esai Berdasarkan Jenjang Studi",
-          "body": "Berdasarkan FAQ Beasiswa Unggulan 2026: pendaftar S1/D4 diminta menyertakan esai bertema khusus; pendaftar S2 diminta menyertakan rencana studi dan esai; pendaftar S3 diminta menyertakan proposal disertasi dan esai. Hal ini menunjukkan esai menjadi bagian dokumen wajib yang harus disiapkan sesuai aturan program."
+          "body": "Berdasarkan pedoman Beasiswa Unggulan 2026: pendaftar S1/D4 diminta menyertakan esai bertema khusus; pendaftar S2 diminta menyertakan rencana studi dan esai; pendaftar S3 diminta menyertakan proposal disertasi dan esai. Hal ini menunjukkan esai menjadi bagian dokumen wajib yang harus disiapkan sesuai aturan program."
         },
         {
           "heading": "Hal yang Perlu Diperhatikan dalam Penulisan",
@@ -208,10 +208,10 @@
     "source": {
       "name": "Puslapdik Kemendikdasmen (Pedoman Beasiswa Unggulan)",
       "type": "Official Policy / Government Portal",
-      "url": "https://beasiswaunggulan.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://beasiswaunggulan.kemendikdasmen.go.id",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
@@ -221,83 +221,82 @@
     "slug": "prosedur-dan-alur-pendaftaran-beasiswa",
     "categoryId": "CAT002",
     "subCategory": "Alur & Prosedur Pendaftaran",
-    "description": "Tahapan pendaftaran akun, verifikasi identitas NISN/NIK, dan pengunggahan formulir pada sistem portal beasiswa resmi.",
+    "description": "Tahapan pendaftaran akun, submit kode registrasi LPDP, verifikasi identitas NISN/NIK, dan pengunggahan formulir portal.",
     "keywords": [
       "pendaftaran beasiswa",
       "alur pendaftaran",
-      "nisn",
-      "npsn",
-      "nik",
+      "kode registrasi",
+      "lpdp daring",
       "portal daring",
       "unggah dokumen"
     ],
     "content": {
-      "overview": "Pendaftaran beasiswa mengikuti sistem dan prosedur daring yang ditetapkan oleh masing-masing penyelenggara program bantuan pembiayaan.",
+      "overview": "Pendaftaran beasiswa mengikuti sistem daring yang ditetapkan masing-masing lembaga dengan pengisian data, pengunggahan dokumen, dan verifikasi kode registrasi.",
       "sections": [
         {
-          "heading": "Mekanisme Pendaftaran pada Portal Program",
-          "body": "Pada Beasiswa Unggulan, calon pendaftar mengisi formulir profil dan mengunggah dokumen persyaratan melalui situs resmi Beasiswa Unggulan. Pada KIP Kuliah, pendaftaran dilakukan secara daring dengan NISN, NPSN, dan NIK, kemudian dilanjutkan sesuai alur seleksi masuk perguruan tinggi."
+          "heading": "Mekanisme Pendaftaran Beasiswa Unggulan dan LPDP",
+          "body": "Pada Beasiswa Unggulan, pendaftaran dilakukan melalui laman resmi dengan mengisi formulir profil dan mengunggah dokumen persyaratan. Pada LPDP, pendaftar membuat akun daring, melengkapi isian data, mengunggah berkas, lalu melakukan submit untuk memperoleh kode registrasi resmi."
         },
         {
-          "heading": "Langkah Pendaftaran Berdasarkan Informasi Resmi",
-          "body": "1) Kunjungi situs resmi program beasiswa. 2) Periksa jadwal dan persyaratan. 3) Siapkan seluruh dokumen yang diminta. 4) Isi formulir pendaftaran sesuai petunjuk. 5) Unggah dokumen melalui sistem yang disediakan. 6) Ikuti proses seleksi sesuai jadwal penyelenggara."
+          "heading": "Prosedur Pendaftaran KIP Kuliah",
+          "body": "Pendaftaran KIP Kuliah dilakukan daring dengan memasukkan NISN, NPSN, dan NIK yang valid. Calon pendaftar mengikuti proses seleksi masuk perguruan tinggi (SNBP, SNBT, atau Mandiri) sebelum diverifikasi oleh kampus penerima."
         }
       ],
       "tips": [
-        "Pastikan data NISN, NPSN, dan NIK Anda telah valid dan sinkron di database kependudukan nasional.",
-        "Kirim pendaftaran lebih awal guna menghindari kendala teknis jaringan pada hari penutupan."
+        "Pastikan Anda telah melakukan submit akhir untuk mendapatkan bukti kode registrasi pendaftaran.",
+        "Periksa kembali kesesuaian dokumen yang diunggah sebelum menekan tombol kirim permanen."
       ],
-      "notes": "Disarikan dari FAQ Cara Pendaftaran Beasiswa Unggulan 2026, portal KIP Kuliah 2026, dan kebijakan seleksi LPDP 2026."
+      "notes": "Sumber: Pedoman Beasiswa Unggulan 2026, Kebijakan Pendaftaran LPDP 2026, dan FAQ KIP Kuliah."
     },
     "source": {
-      "name": "Puslapdik, Kemdiktisaintek & LPDP Kemenkeu",
+      "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://kip-kuliah.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
   {
     "id": "007",
-    "title": "Tahapan Seleksi Administrasi dan Verifikasi Berkas",
+    "title": "Tahapan Seleksi Administrasi, Sanggah, dan Verifikasi",
     "slug": "tahapan-seleksi-administrasi-dan-verifikasi",
     "categoryId": "CAT004",
     "subCategory": "Seleksi Berkas & Verifikasi Data",
-    "description": "Pemeriksaan keabsahan dokumen, tahapan seleksi bakat skolastik LPDP, dan verifikasi ekonomi di perguruan tinggi.",
+    "description": "Pemeriksaan keabsahan dokumen, masa sanggah klarifikasi LPDP, seleksi bakat skolastik, dan verifikasi kampus.",
     "keywords": [
       "seleksi administrasi",
-      "verifikasi berkas",
+      "pengajuan sanggah",
       "seleksi bakat skolastik",
-      "verifikasi kampus",
-      "tahapan seleksi"
+      "seleksi substansi",
+      "verifikasi kampus"
     ],
     "content": {
-      "overview": "Seleksi administrasi merupakan tahapan pemeriksaan keabsahan dokumen dan pemenuhan syarat pendaftar sebelum melangkah ke tahap seleksi berikutnya.",
+      "overview": "Seleksi administrasi memeriksa kelengkapan dan keabsahan berkas calon penerima sebelum melangkah ke tahap seleksi substansi.",
       "sections": [
         {
-          "heading": "Tahapan Seleksi Program Pemerintah",
-          "body": "Pada Beasiswa Unggulan, seleksi terdiri dari dua tahap: seleksi administrasi dan wawancara, yang hasilnya ditetapkan oleh Kepala Puslapdik. Pada LPDP 2026, tahapan meliputi seleksi administrasi, seleksi bakat skolastik sesuai ketentuan kategori, dan seleksi substansi. Pada KIP Kuliah, verifikasi kelayakan ekonomi dilakukan oleh perguruan tinggi saat mahasiswa melakukan daftar ulang."
+          "heading": "Tahapan Seleksi LPDP 2026",
+          "body": "Tahapan seleksi LPDP 2026 terdiri dari seleksi administrasi, pengajuan sanggah, seleksi bakat skolastik untuk jalur yang mewajibkannya, dan seleksi substansi. Pengajuan sanggah memberi kesempatan bagi pendaftar untuk mengklarifikasi hasil administrasi. Sanggah bukan kesempatan menyusulkan dokumen yang lupa diunggah saat pendaftaran."
         },
         {
-          "heading": "Hal yang Perlu Diperhatikan Peserta",
-          "body": "Data yang diisi formulir wajib cocok dengan dokumen fisik asli. Seluruh berkas harus memenuhi kriteria format program. Calon penerima wajib memantau pengumuman setiap tahapan karena aturan seleksi berbeda pada tiap program."
+          "heading": "Seleksi Beasiswa Unggulan dan KIP Kuliah",
+          "body": "Seleksi Beasiswa Unggulan mencakup seleksi administrasi dan wawancara oleh Tim Seleksi Puslapdik dengan penetapan akhir oleh Kepala Puslapdik. Pada KIP Kuliah, verifikasi kelayakan dilakukan oleh perguruan tinggi saat mahasiswa menyelesaikan daftar ulang."
         }
       ],
       "tips": [
-        "Periksa ejaan nama, nomor identitas, dan tanggal lahir pada formulir agar sama persis dengan berkas asli.",
-        "Pantau pengumuman hasil seleksi administrasi melalui akun pendaftaran resmi Anda."
+        "Gunakan masa sanggah hanya untuk klarifikasi atas dugaan kekeliruan pembacaan panitia terhadap dokumen yang sudah terunggah.",
+        "Pantau pengumuman hasil setiap tahapan melalui akun resmi sistem pendaftaran."
       ],
-      "notes": "Rujukan materi mengacu pada FAQ Proses Seleksi Beasiswa Unggulan 2026, jadwal seleksi LPDP 2026, dan verifikasi KIP Kuliah."
+      "notes": "Materi merujuk pada Kebijakan Seleksi LPDP 2026 dan Pedoman Beasiswa Unggulan 2026."
     },
     "source": {
       "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://lpdp.kemenkeu.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
@@ -335,54 +334,54 @@
       "notes": "Materi dirangkum dari publikasi resmi LPDP Persiapan Seleksi Substansi dan FAQ Wawancara Beasiswa Unggulan 2026."
     },
     "source": {
-      "name": "LPDP Kemenkeu (Persiapan Seleksi Substansi) & Puslapdik",
+      "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://lpdp.kemenkeu.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://lpdp.kemenkeu.go.id/awardee/penerima-beasiswa/panduan/",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": true,
     "publishedAt": "2026-11-12"
   },
   {
     "id": "009",
-    "title": "Tahap Pengumuman Hasil Seleksi dan Penetapan Penerima",
+    "title": "Tahap Pengumuman Hasil Seleksi dan Ketentuan Penerima",
     "slug": "tahap-pengumuman-hasil-seleksi-dan-penetapan",
     "categoryId": "CAT004",
     "subCategory": "Pengumuman & Penetapan Status",
-    "description": "Prosedur resmi penerbitan SK penetapan penerima beasiswa dan proses konfirmasi administrasi pasca pengumuman.",
+    "description": "Keputusan penetapan Kepala Puslapdik, ketentuan perubahan prodi, cuti akademik, dan penggunaan bantuan.",
     "keywords": [
       "pengumuman seleksi",
       "penetapan penerima",
-      "sk beasiswa",
-      "konfirmasi penerimaan",
-      "daftar ulang"
+      "verifikasi daftar ulang",
+      "ketentuan cuti",
+      "perubahan prodi"
     ],
     "content": {
-      "overview": "Pengumuman hasil seleksi merupakan rilis penetapan resmi mengenai nama pendaftar yang dinyatakan lolos menjadi penerima beasiswa.",
+      "overview": "Pengumuman kelulusan merupakan penetapan status penerima beasiswa yang diikuti dengan kewajiban administrasi daftar ulang dan kepatuhan aturan studi.",
       "sections": [
         {
-          "heading": "Alur Penetapan Hasil Seleksi",
-          "body": "Pada Beasiswa Unggulan, hasil seleksi administrasi dan wawancara diumumkan melalui laman resmi program dan ditetapkan oleh Kepala Pusat Layanan Pembiayaan Pendidikan. Pada KIP Kuliah, pengumuman terbit setelah calon mahasiswa dinyatakan lulus masuk perguruan tinggi, melakukan daftar ulang, dan selesai diverifikasi kelayakannya oleh pihak kampus."
+          "heading": "Penetapan Penerima Beasiswa Unggulan dan KIP Kuliah",
+          "body": "Penetapan penerima Beasiswa Unggulan dilakukan melalui keputusan resmi Kepala Puslapdik. Pada KIP Kuliah, penetapan penerima dilakukan setelah calon mahasiswa lulus seleksi masuk perguruan tinggi, menyelesaikan daftar ulang, dan selesai diverifikasi kelayakannya oleh pihak kampus."
         },
         {
-          "heading": "Langkah Tindak Lanjut Pasca Pengumuman",
-          "body": "Periksa hasil kelulusan melalui kanal resmi. Simak instruksi lanjutan dari penyelenggara. Ikuti proses konfirmasi penerimaan dan pemberkasan ulang jika disyaratkan. Pastikan status penerimaan telah tercatat aktif dalam sistem."
+          "heading": "Ketentuan Selama Menerima Bantuan",
+          "body": "Penerima beasiswa wajib mengikuti aturan program yang berlaku, termasuk ketentuan mengenai prosedur pengajuan cuti akademik, perubahan program studi, larangan pemindahan dana di luar peruntukan, dan batas masa studi."
         }
       ],
       "tips": [
-        "Verifikasi nama Anda hanya melalui situs resmi instansi atau akun login pendaftaran.",
-        "Segera selesaikan konfirmasi komitmen sebelum batas waktu yang diberikan berakhir."
+        "Segera selesaikan rangkaian registrasi ulang di kampus tujuan Anda setelah pengumuman kelulusan terbit.",
+        "Pahami aturan cuti akademik dan ketentuan perubahan prodi agar hak bantuan pembiayaan tidak gugur."
       ],
-      "notes": "Informasi bersumber dari FAQ Penetapan Penerima Beasiswa Unggulan 2026 dan pengumuman KIP Kuliah."
+      "notes": "Disarikan dari Panduan dan FAQ KIP Kuliah Kemdiktisaintek serta Pedoman Beasiswa Unggulan 2026."
     },
     "source": {
-      "name": "Puslapdik Kemendikdasmen & Kemdiktisaintek",
+      "name": "Kemdiktisaintek & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://puslapdik.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://kip-kuliah.kemdiktisaintek.go.id/panduan",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
@@ -419,54 +418,54 @@
       "notes": "Mekanisme sanggah LPDP dan pendaftaran akun lama KIP Kuliah merupakan aturan khusus masing-masing instansi."
     },
     "source": {
-      "name": "LPDP Kemenkeu (Kebijakan Sanggah) & FAQ KIP Kuliah",
+      "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://lpdp.kemenkeu.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://lpdp.kemenkeu.go.id/beasiswa/kebijakan-umum",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
   {
     "id": "011",
-    "title": "Mempertahankan Beasiswa dan Memenuhi Kewajiban Penerima",
+    "title": "Pedoman bagi Penerima, Alumni, dan Ketentuan Sanksi",
     "slug": "mempertahankan-beasiswa-dan-memenuhi-kewajiban",
     "categoryId": "CAT005",
     "subCategory": "Kewajiban Penerima & Ketentuan Sanksi",
-    "description": "Aturan kontrak penerima beasiswa, kewajiban pelaporan studi berkala, ketentuan sanksi, dan larangan pembiayaan ganda.",
+    "description": "Kewajiban pengabdian alumni LPDP, izin magang/studi lanjut, sanksi pembiayaan ganda, dan pengembalian dana.",
     "keywords": [
-      "kewajiban penerima beasiswa",
-      "laporan studi",
-      "sanksi beasiswa",
+      "kewajiban alumni",
+      "pengabdian lpdp",
+      "izin magang",
       "pembiayaan ganda",
-      "kontrak beasiswa"
+      "sanksi beasiswa"
     ],
     "content": {
-      "overview": "Penerima beasiswa wajib mentaati ketentuan kontrak studi, menjaga standar capaian akademik, dan memenuhi seluruh kewajiban administrasi.",
+      "overview": "Pedoman beasiswa mengatur hak dan kewajiban selama masa perkuliahan hingga kewajiban pengabdian setelah menyelesaikan studi.",
       "sections": [
         {
-          "heading": "Ketentuan Sanksi dan Pemberhentian Beasiswa",
-          "body": "Pedoman LPDP memuat ketentuan persiapan, pelaksanaan, penyelesaian studi, kewajiban, larangan, dan sanksi. FAQ Beasiswa Unggulan menjelaskan kondisi penghentian beasiswa: mengundurkan diri, menerima beasiswa lain dengan komponen pembiayaan sama, memalsukan dokumen, putus kuliah, atau lalai melaporkan hasil studi. Sanksi berupa teguran tertulis, pencabutan bantuan, hingga pengembalian dana ke kas negara."
+          "heading": "Ketentuan bagi Alumni dan Pengabdian LPDP",
+          "body": "Panduan LPDP berlaku bagi penerima aktif dan alumni. Pedoman mengatur pelaporan perkembangan studi, masa studi, cuti akademik, dan penggunaan dana. Setelah lulus, alumni memiliki kewajiban pengabdian di Indonesia. Pedoman LPDP mengatur permohonan izin magang atau penelitian pascastudi serta izin melanjutkan studi dalam kondisi tertentu."
         },
         {
-          "heading": "Kewajiban Rutin Penerima Beasiswa",
-          "body": "Penerima wajib: 1) Membaca dan memahami pedoman penerima beasiswa. 2) Memenuhi kewajiban akademik dengan menjaga IPK di atas batas minimal. 3) Melaporkan kemajuan studi setiap semester. 4) Mematuhi perjanjian kontrak. 5) Menghindari pelanggaran kode etik."
+          "heading": "Pemberhentian dan Sanksi Beasiswa Unggulan",
+          "body": "Beasiswa dapat dihentikan apabila penerima mengundurkan diri, menerima pembiayaan ganda untuk komponen yang sama, memalsukan dokumen, berhenti kuliah, atau tidak melaporkan hasil studi. Sanksi berupa teguran tertulis, pencabutan status penerima, hingga pengembalian dana beasiswa ke kas negara."
         }
       ],
       "tips": [
-        "Unggah laporan perkembangan studi dan transkrip nilai semesteran tepat waktu.",
-        "Konsultasikan kepada pimpinan program studi jika menghadapi kendala akademik yang berpotensi menurunkan IPK."
+        "Laporkan perkembangan studi setiap semester melalui aplikasi pemantauan resmi.",
+        "Alumni penerima beasiswa wajib memenuhi masa pengabdian dan mengajukan izin resmi jika ingin magang pascastudi."
       ],
-      "notes": "Materi merujuk pada Pedoman Umum LPDP Revisi Desember 2025 dan FAQ Pemberhentian Beasiswa Unggulan 2026."
+      "notes": "Sumber: Panduan Penerima dan Alumni Beasiswa LPDP serta Pedoman Beasiswa Unggulan 2026."
     },
     "source": {
-      "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen (Pedoman Hak & Kewajiban)",
+      "name": "LPDP Kemenkeu & Puslapdik Kemendikdasmen",
       "type": "Official Policy / Government Portal",
-      "url": "https://lpdp.kemenkeu.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://lpdp.kemenkeu.go.id/awardee/penerima-beasiswa/panduan/",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": false,
     "publishedAt": "2026-11-12"
   },
@@ -489,7 +488,7 @@
       "sections": [
         {
           "heading": "Tujuh Langkah Kunci Berdasarkan Pedoman Resmi",
-          "body": "1) Mencari informasi lebih awal melalui portal resmi. 2) Memahami kriteria penerima, jenjang, dan syarat khusus. 3) Menyiapkan dokumen sebelum mengirimkan pendaftaran. 4) Mengisi data dengan benar sesuai dokumen pendukung. 5) Memperhatikan jadwal dan memantau tanggal seleksi. 6) Mempersiapkan wawancara dengan melatih penjelasan pengalaman dan rencana masa depan. 7) Mengikuti ketentuan spesifik penyelenggara."
+          "body": "1) Mencari informasi lebih awal melalui portal resmi SatuBeasiswa. 2) Memahami kriteria penerima, jenjang, dan syarat khusus. 3) Menyiapkan dokumen sebelum mengirimkan pendaftaran. 4) Mengisi data dengan benar sesuai dokumen pendukung. 5) Memperhatikan jadwal dan memantau tanggal seleksi. 6) Mempersiapkan wawancara dengan melatih penjelasan pengalaman dan rencana masa depan. 7) Mengikuti ketentuan spesifik penyelenggara."
         },
         {
           "heading": "Prinsip Menghadapi Seleksi",
@@ -505,52 +504,62 @@
     "source": {
       "name": "Puslapdik Kemendikdasmen, LPDP Kemenkeu & SatuBeasiswa",
       "type": "Official Policy / Government Portal",
-      "url": "https://beasiswa.kemdikbud.go.id/",
-      "dateVerified": "2026-11-12"
+      "url": "https://satubeasiswa.kemdiktisaintek.go.id/",
+      "dateVerified": "2026-11-26"
     },
-    "contributor": "Wangke, Florencia Nikita Naftalia",
+    "contributor": "Wangke, Florencia Nikita Naftalia (NIM: 105012410057)",
     "featured": true,
     "publishedAt": "2026-11-12"
   },
   {
     "id": "016",
-    "title": "Cara Efektif Memantau Jadwal Pembukaan Beasiswa Kampus & Nasional",
+    "title": "Cara Efektif Memantau Jadwal Pembukaan Beasiswa",
     "slug": "memantau-jadwal-pembukaan-beasiswa",
     "categoryId": "CAT001",
     "subCategory": "Mencari Informasi & Jadwal Pembukaan Beasiswa",
-    "description": "Panduan memantau saluran resmi dan jaringan informasi agar tidak ketinggalan jadwal pembukaan beasiswa kampus maupun nasional.",
+    "description": "Panduan memantau informasi awal dari orang terdekat serta memeriksa saluran resmi email kampus, website universitas, dan portal beasiswa.",
     "keywords": [
       "jadwal beasiswa",
       "pembukaan beasiswa",
-      "informasi beasiswa",
       "email kampus",
+      "website unklab",
       "portal beasiswa",
-      "grup beasiswa",
-      "tenggat waktu"
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Informasi pembukaan beasiswa sering kali memiliki tenggat waktu yang singkat dan tersebar di berbagai kanal komunikasi. Panduan ini menjelaskan saluran resmi dan jaringan informasi yang wajib dipantau mahasiswa agar tidak ketinggalan peluang pendaftaran.",
+      "overview": "Informasi awal mengenai beasiswa dapat diperoleh melalui teman atau orang terdekat. Setelah memperoleh informasi, mahasiswa memeriksa saluran resmi seperti email kampus, website universitas, dan portal penyelenggara.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Rutin memeriksa kotak masuk email resmi kampus (student email), karena pengumuman beasiswa internal maupun mitra universitas sering dikirimkan secara resmi ke sana. 2) Memantau portal dan situs web resmi penyedia beasiswa pemerintah secara berkala. 3) Bergabung dengan grup komunikasi khusus calon penerima beasiswa yang dibentuk oleh pihak universitas. 4) Membangun jaringan informasi dengan teman seangkatan maupun kakak tingkat untuk saling berbagi info pembukaan beasiswa lewat pesan instan."
+          "body": "1) Membangun komunikasi dengan teman atau orang terdekat untuk memperoleh informasi awal. 2) Memeriksa email dari akun resmi kampus secara berkala. 3) Mengunjungi website Universitas Klabat atau portal resmi pemerintah sesuai penyelenggara beasiswa. 4) Memeriksa tautan dan informasi lanjutan yang diberikan oleh organisasi penyedia beasiswa."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Hanya mengandalkan informasi dari satu sumber saja, atau menunggu pengumuman viral di media sosial saat tenggat waktu sudah hampir habis."
+          "body": "Hanya mengandalkan satu sumber informasi dan tidak memeriksa kembali pengumuman melalui kanal resmi."
         }
       ],
       "tips": [
-        "“Saya mengetahui jadwal pembukaan beasiswa dari teman lewat pesan WhatsApp, dan biasanya melihat daftar beasiswa lewat email yang dikirim dari akun official kampus.” — Amanda Ngangi (Sistem Informasi, Semester 5)"
+        "“Saya mengetahuinya dari teman saya lewat pesan WhatsApp yang dia kirim. Biasanya saya melihat lewat email yang dikirim dari akun official kampus.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)",
+        "“Saya mendapat informasi dari teman satu angkatan saya.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Informasi yang pertama dari orang terdekat, lalu menelusuri organisasi yang memberikan beasiswa.” (Gabriel Kembuan - KIP, Ilmu Komputer)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Amanda Ngangi (Sistem Informasi, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)",
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
@@ -558,378 +567,458 @@
   {
     "id": "017",
     "title": "Cara Mengecek Kesesuaian Kriteria dan Status Kelayakan Beasiswa",
-    "slug": "mengecek-kriteria-kelayakan-beasiswa",
+    "slug": "mengecek-kriteria-dan-kelayakan-beasiswa",
     "categoryId": "CAT003",
     "subCategory": "Memahami Kriteria & Kelayakan Pendaftar",
-    "description": "Langkah memverifikasi syarat umum, syarat khusus, dan status ekonomi sebelum mendaftar agar peluang diterima lebih terarah.",
+    "description": "Cara memeriksa syarat pada tautan resmi, pencocokan data diri, akun sistem terdaftar KIP, dan verifikasi berkas di kampus.",
     "keywords": [
       "kelayakan beasiswa",
-      "kriteria beasiswa",
-      "syarat beasiswa",
-      "KIP Kuliah",
-      "verifikasi berkas",
-      "status ekonomi",
-      "kemahasiswaan"
+      "syarat kriteria",
+      "akun kip",
+      "verifikasi kampus",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Setiap program beasiswa memiliki kriteria spesifik, mulai dari prestasi akademik hingga kondisi ekonomi keluarga. Memahami cara memverifikasi kelayakan sejak awal membantu mahasiswa fokus pada beasiswa yang paling sesuai dengan profil mereka.",
+      "overview": "Kelayakan pendaftar perlu diperiksa dengan membaca syarat dan ketentuan yang ditetapkan penyelenggara. Untuk beasiswa tertentu seperti KIP, narasumber menjelaskan adanya pemeriksaan melalui akun terdaftar dan verifikasi berkas di kampus.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Membaca syarat umum dan khusus yang tertera pada tautan resmi penyelenggara beasiswa. 2) Untuk beasiswa berbasis ekonomi dari negara, memastikan kepemilikan akun terdaftar untuk memverifikasi apakah data diri masuk dalam kategori yang memenuhi syarat. 3) Melakukan verifikasi berkas melalui sistem kampus dan bagian kemahasiswaan."
+          "body": "1) Membaca syarat dan ketentuan pada website atau tautan resmi penyelenggara. 2) Mencocokkan persyaratan tersebut dengan data dan keadaan diri sendiri. 3) Untuk program KIP, mengikuti proses melalui akun atau sistem terdaftar sesuai ketentuan program. 4) Melakukan verifikasi melalui sistem dan pengumpulan berkas di kampus apabila diwajibkan."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Mendaftar secara asal tanpa memeriksa apakah syarat ekonomi atau batasan tahun lulus/semester sudah sesuai dengan ketentuan program."
+          "body": "Mendaftar tanpa membaca syarat dan ketentuan atau tanpa memeriksa kesesuaian data diri."
         }
       ],
       "tips": [
-        "“Kalau program beasiswanya adalah KIP yang berasal dari uang negara, kami harus memiliki akun yang terdaftar. Dari akun itu data diri bisa dilihat apakah calon penerima tergolong mampu atau kurang mampu.” — Gabriel Kembuan (Ilmu Komputer)"
+        "“Melakukan verifikasi melalui sistem dan melalui pengumpulan berkas di kampus.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Kalau program beasiswanya adalah KIP yang berasal dari uang negara maka kami harus memiliki akun yang terdaftar. Dari akun itu data diri bisa dilihat apakah calon penerima tergolong mampu atau kurang mampu.” (Gabriel Kembuan - KIP, Ilmu Komputer)",
+        "“Di website tersebut sudah tertulis syarat dan ketentuan ketika mengikuti beasiswa tersebut dan kita bisa melihat apakah kita memenuhi atau tidak.” (Tessa Komalig - Mahasiswa Berprestasi, Akuntansi, Semester 7)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Gracelia Gandey, Gabriel Kembuan, Tessa Komalig. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 18 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gabriel Kembuan (Ilmu Komputer)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Gracelia Gandey, Gabriel Kembuan, Tessa Komalig)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
       "dateVerified": "2026-11-18"
     },
+    "narasumber": [
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)",
+      "Tessa Komalig (Mahasiswa Berprestasi, Akuntansi, Semester 7)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "018",
-    "title": "Strategi Menyiapkan dan Mengumpulkan Berkas Beasiswa Tepat Waktu",
-    "slug": "menyiapkan-berkas-beasiswa-tepat-waktu",
+    "title": "Strategi Menyiapkan dan Mengumpulkan Berkas Beasiswa",
+    "slug": "strategi-menyiapkan-dan-mengumpulkan-berkas",
     "categoryId": "CAT002",
     "subCategory": "Persiapan & Manajemen Berkas Administrasi",
-    "description": "Cara menyiapkan dokumen jauh sebelum pendaftaran dibuka dan mengirimkannya lebih awal agar berkas tidak gugur di tahap administrasi.",
+    "description": "Pemeriksaan kelengkapan dokumen, format penamaan file, dan keuntungan mengirimkan berkas pendaftaran lebih awal.",
     "keywords": [
       "berkas beasiswa",
-      "dokumen pendaftaran",
-      "administrasi",
-      "transkrip nilai",
-      "surat keterangan",
-      "unggah berkas",
-      "tepat waktu"
+      "manajemen dokumen",
+      "pengumpulan berkas",
+      "kirim cepat",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Kelengkapan dan ketepatan waktu pengumpulan dokumen merupakan gerbang pertama seleksi beasiswa. Artikel ini menguraikan cara menyiapkan dokumen jauh sebelum pendaftaran dibuka serta kecepatan dalam pengiriman berkas.",
+      "overview": "Berkas perlu disiapkan dengan teliti dan mengikuti ketentuan dari penyelenggara. Narasumber menyarankan agar mahasiswa tidak menunda pengurusan pendaftaran dan mengirimkan berkas sesuai ketentuan, lebih awal jika memungkinkan.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Mengumpulkan dokumen dasar (KTP, KK, transkrip nilai, surat keterangan) dalam satu folder digital jauh sebelum periode pendaftaran dibuka. 2) Memeriksa kembali format penamaan file dan ketentuan ukuran dokumen yang diminta. 3) Mengunggah atau mengumpulkan berkas sesegera mungkin setelah pendaftaran dibuka."
+          "body": "1) Membaca daftar persyaratan berkas dari penyelenggara. 2) Memeriksa kembali kelengkapan dan kesesuaian dokumen. 3) Mengikuti ketentuan format dan cara pengumpulan berkas. 4) Mengumpulkan berkas lebih awal jika dokumen sudah siap."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Menunda-nunda pengurusan surat keterangan hingga mendekati batas akhir pengumpulan."
+          "body": "Menunda pengurusan berkas sampai mendekati batas akhir atau mengirimkan dokumen tanpa memeriksa ketentuan."
         }
       ],
       "tips": [
-        "“Usahakan file yang dikirim sesuai mengikuti ketentuan pengumpulannya kalau bisa lebih cepat, supaya presentasi nama di seleksi lebih tinggi di ambil.” — Gabriel Kembuan (Ilmu Komputer)"
+        "“Usahakan file yang dikirim sesuai mengikuti ketentuan pengumpulannya. Kalau bisa lebih cepat, supaya presentasi nama di seleksi lebih tinggi diambil.” (Gabriel Kembuan - KIP, Ilmu Komputer)",
+        "“Jangan menunda mengurus pendaftaran/berkas jika ada informasi tentang pembukaan beasiswa.” (Gracelia Gandey - KIP, Informatika, Semester 5)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Gabriel Kembuan, Gracelia Gandey. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gabriel Kembuan (Ilmu Komputer)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Gabriel Kembuan, Gracelia Gandey)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Gabriel Kembuan (KIP, Ilmu Komputer)",
+      "Gracelia Gandey (KIP, Informatika, Semester 5)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "019",
-    "title": "Langkah Taktis Mengatasi Kekurangan Dokumen Saat Pendaftaran",
-    "slug": "mengatasi-kekurangan-dokumen-beasiswa",
+    "title": "Langkah Mengatasi Kekurangan Dokumen Saat Pendaftaran",
+    "slug": "mengatasi-kekurangan-dokumen-pendaftaran",
     "categoryId": "CAT002",
     "subCategory": "Solusi Saat Berkas Persyaratan Belum Lengkap",
-    "description": "Langkah cepat melacak dan melengkapi dokumen yang kurang saat masa pendaftaran beasiswa berjalan.",
+    "description": "Tindakan saat berkas belum lengkap, perbaikan dokumen, komunikasi dengan kampus dan rekan, serta ketekunan menghadapi kendala jarak.",
     "keywords": [
-      "dokumen kurang",
-      "berkas tidak lengkap",
-      "panitia seleksi",
-      "administrasi kampus",
-      "solusi berkas",
-      "pendaftaran beasiswa"
+      "kekurangan berkas",
+      "solusi dokumen",
+      "komunikasi kampus",
+      "kendala administrasi",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Kendala teknis atau jarak lokasi pengurusan surat sering membuat berkas pendaftaran belum lengkap saat masa seleksi berjalan. Panduan ini memberikan langkah cepat untuk melacak dan melengkapi kekurangan tersebut.",
+      "overview": "Jika berkas belum lengkap, mahasiswa dapat memeriksa kembali bagian yang kurang, memperbaikinya, dan berkomunikasi dengan teman atau pihak kampus. Pengalaman narasumber juga menunjukkan pentingnya tetap berusaha ketika pengurusan dokumen menghadapi kendala.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Melakukan pengecekan ulang secara mandiri terhadap seluruh daftar persyaratan yang diminta. 2) Menghubungi pihak administrasi kampus atau kemahasiswaan untuk menanyakan rincian berkas yang masih kurang. 3) Berdiskusi dengan teman yang sedang mengurus beasiswa serupa untuk mencari solusi alternatif."
+          "body": "1) Memeriksa kembali berkas untuk mengetahui bagian yang belum lengkap. 2) Memperbaiki dokumen yang masih kurang atau belum sesuai. 3) Menghubungi pihak kampus atau teman yang juga mengurus beasiswa untuk menanyakan kekurangan berkas. 4) Tetap berusaha mencari solusi ketika pengurusan dokumen mengalami kendala jarak maupun teknis."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Langsung menyerah atau pasrah tanpa mencoba berkomunikasi dengan pihak kampus atau panitia seleksi."
+          "body": "Langsung menyerah tanpa memeriksa kekurangan dokumen atau bertanya kepada pihak yang dapat membantu."
         }
       ],
       "tips": [
-        "“Berkomunikasi dengan teman yang juga sedang mengurus beasiswa dan pihak kampus untuk bertanya tentang berkas apa yang kurang atau belum lengkap.” — Gracelia Gandey (Informatika, Semester 5)"
+        "“Tentu saya akan memeriksa kembali, bagian mana yang kurang dan akan saya perbaiki.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)",
+        "“Berkomunikasi dengan teman yang juga sedang mengurus beasiswa dan pihak kampus untuk bertanya tentang berkas apa yang kurang atau belum lengkap.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Jujur berkas saya lalu tidak lengkap, posisi tempat juga yang mau diuruskan suratnya jauh. Tapi satu saja tetap usaha dan berdoa.” (Gabriel Kembuan - KIP, Ilmu Komputer)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gracelia Gandey (Informatika, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)",
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "020",
-    "title": "Menyusun Alasan Pendaftaran yang Meyakinkan Penyelenggara Beasiswa",
-    "slug": "menyusun-alasan-pendaftaran-beasiswa",
+    "title": "Menyusun Alasan Pendaftaran yang Jelas",
+    "slug": "menyusun-alasan-pendaftaran-yang-meyakinkan",
     "categoryId": "CAT002",
-    "subCategory": "Menulis Esai & Alasan Motivasi (Motivation Letter)",
-    "description": "Cara menyusun narasi diri yang kuat dan relevan dengan visi serta nilai penyelenggara beasiswa.",
+    "subCategory": "Menulis Esai & Alasan Motivasi",
+    "description": "Cara memaparkan alasan bergabung dan alasan mengapa pendaftar layak diterima sesuai kriteria organisasi penyedia beasiswa.",
     "keywords": [
-      "motivation letter",
-      "esai beasiswa",
+      "alasan beasiswa",
+      "esai motivasi",
       "alasan pendaftaran",
-      "motivasi",
-      "narasi diri",
-      "visi misi penyelenggara"
+      "penilaian organisasi",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Banyak organisasi penyedia beasiswa menilai kelayakan pendaftar melalui alasan mengapa mereka ingin bergabung dan mengapa mereka pantas dipilih. Artikel ini membahas cara menyusun narasi diri yang kuat dan relevan.",
+      "overview": "Dalam wawancara, Amanda menjelaskan bahwa organisasi meminta alasan seseorang ingin bergabung dan alasan mengapa pendaftar perlu diterima. Jawaban tersebut digunakan pihak organisasi untuk menilai apakah pendaftar memenuhi kriteria.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Memahami visi, misi, dan nilai utama dari organisasi atau institusi pemberi beasiswa. 2) Menjelaskan latar belakang kebutuhan serta kontribusi nyata yang bisa diberikan. 3) Menyusun tulisan secara terstruktur (pembuka, isi, dan penutup)."
+          "body": "1) Memahami organisasi atau program beasiswa yang akan diikuti. 2) Menyiapkan alasan mengapa ingin bergabung atau mengikuti program tersebut. 3) Menjelaskan alasan mengapa pendaftar layak dipertimbangkan sesuai keadaan sebenarnya."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Menulis alasan yang terlalu umum tanpa menjelaskan alasan spesifik mengapa penyedia beasiswa harus memilih pendaftar."
+          "body": "Memberikan alasan yang terlalu umum atau tidak menjawab alasan yang diminta oleh organisasi."
         }
       ],
       "tips": [
-        "“Biasanya pihak organisasi meminta alasan untuk bergabung, dan kenapa mereka harus menerima para pendaftar, dengan itu pihak organisasi dapat melihat atau menilai apakah memenuhi kriteria atau tidak.” — Amanda Ngangi (Sistem Informasi, Semester 5)"
+        "“Biasanya pihak organisasi meminta alasan untuk bergabung, dan kenapa mereka harus menerima para pendaftar. Dengan itu pihak organisasi dapat melihat atau menilai apakah memenuhi kriteria atau tidak.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Amanda Ngangi (Sistem Informasi, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "021",
-    "title": "Persiapan Mental dan Strategi Menjawab Pertanyaan Wawancara Beasiswa",
-    "slug": "persiapan-wawancara-beasiswa",
+    "title": "Persiapan Mental dan Sikap Saat Wawancara Beasiswa",
+    "slug": "persiapan-mental-dan-wawancara-beasiswa",
     "categoryId": "CAT004",
     "subCategory": "Menghadapi Tahap Wawancara Seleksi Beasiswa",
-    "description": "Cara tampil siap, tenang, dan konsisten saat wawancara seleksi beasiswa.",
+    "description": "Kesiapan mental menghadapi pewawancara, rasa percaya diri, dan menghindari sikap pesimis selama seleksi.",
     "keywords": [
       "wawancara beasiswa",
-      "tahap seleksi",
+      "sikap wawancara",
       "percaya diri",
-      "motivasi studi",
-      "panelis",
-      "persiapan mental"
+      "mental siap",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Tahap wawancara adalah momen penentu di mana pewawancara mengonfirmasi isi berkas dan melihat karakter asli pendaftar. Panduan ini membantu Anda tampil siap, tenang, dan meyakinkan di hadapan panelis.",
+      "overview": "Amanda menekankan bahwa calon penerima perlu siap ketika menghadapi wawancara, percaya diri, dan tidak pesimis dalam menjalani proses seleksi.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Mempelajari kembali seluruh berkas dan esai yang telah dikirimkan agar jawaban tetap konsisten. 2) Melatih jawaban untuk pertanyaan kunci seputar motivasi dan rencana studi. 3) Hadir dengan percaya diri dan menjaga sikap profesional."
+          "body": "1) Mempersiapkan diri sebelum mengikuti wawancara. 2) Menghadapi wawancara dengan percaya diri. 3) Menghindari sikap pesimis selama proses seleksi."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Bersikap ragu-ragu, pesimis, atau tidak menguasai isi dokumen pendaftaran sendiri saat ditanya."
+          "body": "Mengikuti wawancara tanpa persiapan atau membiarkan rasa pesimis mengurangi kepercayaan diri."
         }
       ],
       "tips": [
-        "“Yang terutama adalah siap pada saat wawancara, percaya diri dan jangan pesimis.” — Amanda Ngangi (Sistem Informasi, Semester 5)"
+        "“Yang terutama adalah siap pada saat wawancara, percaya diri dan jangan pesimis.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Amanda Ngangi (Sistem Informasi, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "022",
-    "title": "Manajemen Studi untuk Memenuhi dan Mempertahankan Syarat IPK Beasiswa",
-    "slug": "menjaga-ipk-syarat-beasiswa",
+    "title": "Menjaga IPK agar Tetap Memenuhi Persyaratan Beasiswa",
+    "slug": "manajemen-studi-dan-syarat-ipk-beasiswa",
     "categoryId": "CAT003",
     "subCategory": "Menjaga Kestabilan IPK & Prestasi Akademik",
-    "description": "Strategi menjaga performa akademik agar memenuhi syarat IPK dan tetap mempertahankan beasiswa.",
+    "description": "Konsistensi menjaga IPK perkuliahan, pemantauan syarat akademik program, dan keseimbangan aktivitas pendaftaran.",
     "keywords": [
-      "IPK",
-      "indeks prestasi",
+      "menjaga ipk",
       "prestasi akademik",
-      "syarat IPK",
-      "mempertahankan beasiswa",
-      "jadwal belajar"
+      "syarat beasiswa",
+      "perkuliahan",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Indeks Prestasi Kumulatif (IPK) merupakan syarat mutlak dalam hampir seluruh seleksi beasiswa maupun syarat untuk mempertahankan beasiswa yang sudah didapat. Artikel ini membahas strategi menjaga performa akademik tetap stabil.",
+      "overview": "Gracelia menyampaikan bahwa mahasiswa perlu menjaga agar IPK tidak turun sebagai salah satu tips penting dalam mempersiapkan dan memperoleh beasiswa.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Mengetahui batas minimal IPK yang dipersyaratkan oleh program beasiswa. 2) Membuat jadwal belajar rutin dan menyelesaikan tugas kuliah tepat waktu."
+          "body": "1) Menjaga agar IPK tidak turun selama menjalani perkuliahan. 2) Memeriksa persyaratan akademik yang ditentukan oleh program beasiswa. 3) Tetap memperhatikan kegiatan akademik selama proses pendaftaran beasiswa."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Terlena setelah dinyatakan lolos beasiswa sehingga lalai dalam perkuliahan."
+          "body": "Mengabaikan perkembangan IPK atau tidak memeriksa persyaratan akademik program yang dituju."
         }
       ],
       "tips": [
-        "“Menjaga agar IPK tidak turun, berpartisipasi dalam organisasi kampus, dan jangan menunda mengurus pendaftaran/berkas jika ada informasi tentang pembukaan beasiswa.” — Gracelia Gandey (Informatika, Semester 5)"
+        "“Menjaga agar IPK tidak turun, berpartisipasi dalam organisasi kampus, dan jangan menunda mengurus pendaftaran/berkas jika ada informasi tentang pembukaan beasiswa.” (Gracelia Gandey - KIP, Informatika, Semester 5)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Gracelia Gandey. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gracelia Gandey (Informatika, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Gracelia Gandey)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Gracelia Gandey (KIP, Informatika, Semester 5)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "023",
-    "title": "Meningkatkan Nilai Tambah Pendaftar Melalui Organisasi dan Jaringan Kampus",
-    "slug": "nilai-tambah-organisasi-jaringan-kampus",
+    "title": "Memanfaatkan Organisasi dan Relasi untuk Mendukung Persiapan Beasiswa",
+    "slug": "organisasi-dan-jaringan-kampus-beasiswa",
     "categoryId": "CAT004",
     "subCategory": "Peran Keaktifan Organisasi & Relasi Kampus",
-    "description": "Memanfaatkan kegiatan kemahasiswaan dan relasi kampus sebagai nilai tambah dalam seleksi beasiswa.",
+    "description": "Partisipasi aktif dalam kegiatan organisasi kampus dan menjaga relasi dengan rekan sebaya untuk memperluas akses informasi.",
     "keywords": [
       "organisasi kampus",
-      "kemahasiswaan",
+      "relasi mahasiswa",
       "jaringan informasi",
-      "kepemimpinan",
-      "rekam jejak",
-      "relasi"
+      "teman seangkatan",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Selain nilai akademik, keaktifan berorganisasi dan relasi yang baik di lingkungan kampus menjadi nilai tambah besar dalam seleksi beasiswa. Artikel ini menjelaskan cara memanfaatkan kegiatan kemahasiswaan untuk memperbesar peluang lolos.",
+      "overview": "Gracelia menyarankan mahasiswa untuk berpartisipasi dalam organisasi kampus. Selain itu, pengalaman Amanda dan Gabriel menunjukkan bahwa teman dan orang terdekat dapat menjadi sumber awal informasi beasiswa.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Aktif dalam kegiatan organisasi kemahasiswaan untuk melatih kepemimpinan. 2) Membangun komunikasi yang baik dengan orang terdekat, teman, dan pihak kampus untuk memperluas akses informasi."
+          "body": "1) Berpartisipasi dalam organisasi kampus. 2) Menjaga komunikasi dengan teman seangkatan dan orang terdekat untuk memperoleh informasi. 3) Memeriksa kembali informasi yang diperoleh melalui sumber resmi penyelenggara."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Menjadi mahasiswa pasif yang tidak memiliki rekam jejak non-akademik atau jaringan informasi."
+          "body": "Tidak membangun komunikasi dengan lingkungan sekitar sehingga dapat melewatkan informasi beasiswa."
         }
       ],
       "tips": [
-        "“Berpartisipasi dalam organisasi kampus dan menjaga relasi dengan orang terdekat/teman sangat membantu.” — Gracelia Gandey & Gabriel Kembuan"
+        "“Berpartisipasi dalam organisasi kampus.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Saya mengetahuinya dari teman saya lewat pesan WhatsApp yang dia kirim.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)",
+        "“Informasi yang pertama dari orang terdekat.” (Gabriel Kembuan - KIP, Ilmu Komputer)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Gracelia Gandey, Amanda Ngangi, Gabriel Kembuan. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gracelia Gandey & Gabriel Kembuan",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Gracelia Gandey, Amanda Ngangi, Gabriel Kembuan)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "024",
-    "title": "Langkah Evaluasi dan Mencari Peluang Lain Setelah Gagal Seleksi",
-    "slug": "evaluasi-setelah-gagal-seleksi",
+    "title": "Mengevaluasi Kegagalan dan Mencari Peluang Beasiswa Lain",
+    "slug": "evaluasi-setelah-gagal-seleksi-beasiswa",
     "categoryId": "CAT005",
-    "subCategory": "Evaluasi & Bangkit dari Kegagalan Seleksi Beasiswa",
-    "description": "Cara mengevaluasi penyebab kegagalan seleksi dan memetakan peluang beasiswa berikutnya.",
+    "subCategory": "Evaluasi Kegagalan & Persiapan Dini",
+    "description": "Langkah klarifikasi pihak terkait, konsultasi evaluasi berkas dengan kampus dan rekan lolos, serta eksplorasi beasiswa lain.",
     "keywords": [
+      "evaluasi beasiswa",
       "gagal seleksi",
-      "evaluasi",
-      "beasiswa alternatif",
-      "batas tahun tamatan",
       "konsultasi kampus",
-      "peluang beasiswa"
+      "pantang menyerah",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Gagal dalam satu seleksi beasiswa bukanlah akhir dari kesempatan kuliah dengan bantuan dana. Panduan ini menjelaskan cara mengevaluasi penyebab kegagalan dan memetakan peluang beasiswa berikutnya.",
+      "overview": "Narasumber menyarankan agar mahasiswa tidak langsung menyerah ketika gagal. Langkah yang disebutkan meliputi meminta klarifikasi, berkonsultasi dengan pihak kampus atau teman yang lolos, memeriksa ketentuan pendaftaran ulang, dan mencoba beasiswa lain.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Meminta klarifikasi atau berkonsultasi dengan pihak kampus dan teman yang lolos untuk mengevaluasi berkas. 2) Memeriksa apakah program beasiswa tersebut memiliki batasan tahun tamatan atau bisa dicoba kembali. 3) Mencari alternatif program beasiswa lain yang masih terbuka."
+          "body": "1) Meminta klarifikasi kepada pihak terkait jika mengalami kegagalan seleksi. 2) Berkonsultasi dengan pihak kampus atau teman yang lolos untuk mengevaluasi berkas dan persiapan. 3) Memeriksa ketentuan program, termasuk batasan tahun tamatan atau kesempatan mendaftar kembali. 4) Mencari beasiswa lain yang masih terbuka dan mempersiapkan diri lebih awal."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Langsung menyerah tanpa mengevaluasi kesalahan atau tidak mencari peluang beasiswa lain."
+          "body": "Langsung menyerah setelah gagal tanpa mengevaluasi persiapan atau mencari kesempatan beasiswa lain."
         }
       ],
       "tips": [
-        "“Melakukan konsultasi dengan pihak kampus dan teman yang lolos untuk menilai lagi berkas dan persiapan saya, yang membuat saya gagal... dan melihat lagi apakah ada beasiswa lain yang terbuka.” — Gracelia Gandey (Informatika, Semester 5)"
+        "“Sepertinya saya akan coba mengkomunikasikannya dengan mereka, untuk meminta klarifikasi.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)",
+        "“Melakukan konsultasi dengan pihak kampus dan teman yang lolos untuk menilai lagi berkas dan persiapan saya, yang membuat saya gagal mendapatkan beasiswa, dan melihat lagi apakah ada beasiswa lain yang terbuka di kampus saya.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Kalau dari program beasiswa yang saya ikut jika gagal, kami para calon penerima tidak dapat ikut kembali karena ada batasan untuk tahun tamatan tertentu. Jika itu program yang lain kemungkinan bisa ikut kembali.” (Gabriel Kembuan - KIP, Ilmu Komputer)",
+        "“Saya tidak akan menyerah begitu saja dan saya akan mencoba untuk mengikuti beasiswa lainnya yang bisa saya ikuti.” (Tessa Komalig - Mahasiswa Berprestasi, Akuntansi, Semester 7)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan, Tessa Komalig. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Gracelia Gandey (Informatika, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan, Tessa Komalig)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)",
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)",
+      "Tessa Komalig (Mahasiswa Berprestasi, Akuntansi, Semester 7)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"
   },
   {
     "id": "025",
-    "title": "Persiapan Jangka Panjang Mahasiswa Sebelum Masa Pendaftaran Beasiswa",
-    "slug": "persiapan-jangka-panjang-beasiswa",
-    "categoryId": "CAT002",
-    "subCategory": "Tips Persiapan Dini Sebelum Pendaftaran Dibuka",
-    "description": "Kebiasaan dan persiapan dini yang membedakan pendaftar yang berhasil mendapatkan beasiswa.",
+    "title": "Cara Menemukan Daftar Beasiswa Melalui Kanal Resmi Kampus dan Pemerintah",
+    "slug": "cara-menemukan-daftar-beasiswa-melalui-kanal-resmi",
+    "categoryId": "CAT001",
+    "subCategory": "Mencari dan Melihat Daftar Beasiswa yang Tersedia",
+    "description": "Saluran melihat daftar beasiswa dari email resmi kampus, website Universitas Klabat, portal pemerintah, dan grup calon penerima.",
     "keywords": [
-      "persiapan dini",
-      "sebelum pendaftaran",
-      "kebiasaan mahasiswa",
-      "kelengkapan berkas",
-      "perencanaan beasiswa"
+      "daftar beasiswa",
+      "website unklab",
+      "kanal resmi",
+      "grup beasiswa",
+      "email kampus",
+      "narasumber mahasiswa"
     ],
     "content": {
-      "overview": "Mahasiswa yang berhasil mendapatkan beasiswa umumnya telah mempersiapkan diri jauh hari sebelum pengumuman resmi dirilis. Artikel ini merangkum kebiasaan dan persiapan dini yang perlu dilakukan mahasiswa.",
+      "overview": "Narasumber menyebutkan beberapa tempat untuk melihat informasi beasiswa, yaitu email resmi kampus, website Universitas Klabat, website dan portal resmi pemerintah, serta grup calon penerima beasiswa yang dibentuk universitas.",
       "sections": [
         {
           "heading": "Langkah-Langkah Inti",
-          "body": "1) Mempersiapkan diri sebelum penerimaan dibuka. 2) Menjaga ketelitian dalam setiap persyaratan dan mengumpulkan dokumen lebih cepat."
+          "body": "1) Memeriksa email dari akun resmi kampus. 2) Membuka website Universitas Klabat untuk melihat informasi beasiswa internal kampus. 3) Mengunjungi website atau portal resmi pemerintah untuk mencari beasiswa pemerintah. 4) Mengikuti grup komunikasi calon penerima beasiswa apabila dibentuk oleh pihak universitas."
         },
         {
           "heading": "Kesalahan Umum yang Harus Dihindari",
-          "body": "Menyiapkan segala sesuatunya secara mendadak saat pendaftaran sudah dibuka."
+          "body": "Menganggap semua beasiswa diumumkan melalui satu website atau satu saluran informasi yang sama."
         }
       ],
       "tips": [
-        "“Sebelum penerimaan dibuka, lebih baik kita sudah mempersiapkan diri kita. Dan pada saat tahap pengumpulan berkas dan semacamnya, kita dapat memperhatikan dengan teliti setiap persyaratan yang ada.” — Amanda Ngangi (Sistem Informasi, Semester 5)"
+        "“Biasanya saya melihat lewat email yang dikirim dari akun official kampus.” (Amanda Ngangi - GenBI, Sistem Informasi, Semester 5)",
+        "“Dari website dan portal resmi pemerintah.” (Gracelia Gandey - KIP, Informatika, Semester 5)",
+        "“Jika beasiswa itu diselenggarakan oleh universitas maka akan ada grup yang dibentuk untuk para calon penerima beasiswa.” (Gabriel Kembuan - KIP, Ilmu Komputer)",
+        "“Di website Unklab.” (Tessa Komalig - Mahasiswa Berprestasi, Akuntansi, Semester 7)"
       ],
-      "notes": "Entri ini disusun dari wawancara tacit knowledge pada 18 November 2026. Kontributor: Tumewan, Tamariska Brigita."
+      "notes": "Narasumber: Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan, Tessa Komalig. Pewawancara: Alow, Leticia Lisi & Hutabarat, Gracia Nathalia. Kontributor: Tumewan, Tamariska Brigita (Diperbarui: 17 November 2026)."
     },
     "source": {
-      "name": "Wawancara narasumber — Amanda Ngangi (Sistem Informasi, Semester 5)",
+      "name": "Wawancara narasumber mahasiswa UNKLAB (Amanda Ngangi, Gracelia Gandey, Gabriel Kembuan, Tessa Komalig)",
       "type": "Community Reference (Tacit Knowledge)",
       "url": "",
-      "dateVerified": "2026-11-18"
+      "dateVerified": "2026-11-17"
     },
+    "narasumber": [
+      "Amanda Ngangi (GenBI, Sistem Informasi, Semester 5)",
+      "Gracelia Gandey (KIP, Informatika, Semester 5)",
+      "Gabriel Kembuan (KIP, Ilmu Komputer)",
+      "Tessa Komalig (Mahasiswa Berprestasi, Akuntansi, Semester 7)"
+    ],
+    "pewawancara": [
+      "Alow, Leticia Lisi",
+      "Hutabarat, Gracia Nathalia"
+    ],
     "contributor": "Tumewan, Tamariska Brigita",
     "featured": false,
     "publishedAt": "2026-11-18"

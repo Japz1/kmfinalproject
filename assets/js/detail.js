@@ -123,6 +123,10 @@ function renderArticle(container, article, category) {
 
   const src = article.source || {};
   const verifiedDate = src.dateVerified ? formatDate(src.dateVerified) : '';
+  const narasumberList = Array.isArray(article.narasumber) ? article.narasumber.join('; ') : (article.narasumber || '');
+  const pewawancaraList = Array.isArray(article.pewawancara) ? article.pewawancara.join(', ') : (article.pewawancara || '');
+  const contributorName = article.contributor || '';
+
   const sourceHtml = `
     <div class="mt-9 flex gap-3 rounded-md border border-line bg-paper p-5">
       <span class="shrink-0 text-muted" aria-hidden="true">${icon('link', 18)}</span>
@@ -130,6 +134,9 @@ function renderArticle(container, article, category) {
         <div class="mb-1.5 text-[0.72rem] font-bold uppercase tracking-[0.06em] text-muted">Sumber Informasi</div>
         <div class="text-[0.9rem] font-semibold text-ink">${escapeHtml(src.name || 'Tidak tersedia')}</div>
         <div class="mt-1 text-[0.8125rem] text-muted">Jenis: ${escapeHtml(src.type || '')}${verifiedDate ? ' &nbsp;|&nbsp; Diverifikasi: ' + escapeHtml(verifiedDate) : ''}</div>
+        ${narasumberList ? `<div class="mt-1 text-[0.8125rem] text-muted"><strong class="font-medium text-ink">Narasumber:</strong> ${escapeHtml(narasumberList)}</div>` : ''}
+        ${pewawancaraList ? `<div class="mt-0.5 text-[0.8125rem] text-muted"><strong class="font-medium text-ink">Pewawancara:</strong> ${escapeHtml(pewawancaraList)}</div>` : ''}
+        ${contributorName ? `<div class="mt-0.5 text-[0.8125rem] text-muted"><strong class="font-medium text-ink">Kontributor:</strong> ${escapeHtml(contributorName)}</div>` : ''}
         ${src.url ? `<a href="${escapeHtml(src.url)}" target="_blank" rel="noopener" class="mt-1 inline-block break-all text-[0.8125rem] text-navy transition-colors hover:text-primary hover:underline">${escapeHtml(src.url)}</a>` : ''}
       </div>
     </div>
