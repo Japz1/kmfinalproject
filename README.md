@@ -11,7 +11,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![JSON Data](https://img.shields.io/badge/Articles-25_Entri-005E7C?style=for-the-badge&logo=json&logoColor=white)](#struktur-data)
+[![JSON Data](https://img.shields.io/badge/Articles-22_Entri-005E7C?style=for-the-badge&logo=json&logoColor=white)](#struktur-data)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 [![University](https://img.shields.io/badge/UNKLAB-Kelompok_5-001242?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.unklab.ac.id/)
 
@@ -64,7 +64,7 @@ Rumpun Pengetahuan
 websitekm/
 ├── index.html            <- Halaman beranda dengan pencarian hero
 ├── categories.html       <- Daftar 5 rumpun kategori
-├── library.html          <- Katalog 25 artikel dengan filter
+├── library.html          <- Katalog 22 artikel dengan filter
 ├── detail.html           <- Halaman membaca artikel (?id=xxx)
 ├── faq.html              <- 8 pertanyaan dan jawaban umum
 ├── about.html            <- Latar belakang proyek dan anggota tim
@@ -76,7 +76,7 @@ websitekm/
     ├── css/              <- Berkas gaya tambahan
     ├── data/
     │   ├── categories.json <- Definisi 5 kategori
-    │   └── knowledge.json  <- Basis data 25 artikel beasiswa
+    │   └── knowledge.json  <- Basis data 22 artikel beasiswa (12 Explicit & 10 Tacit)
     ├── js/
     │   ├── app.js             <- Pengambilan data dan perender antarmuka
     │   ├── categories.js      <- Logika halaman kategori

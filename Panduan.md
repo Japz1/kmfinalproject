@@ -156,7 +156,7 @@ Buka `assets/data/knowledge.json` dan tambahkan objek baru di akhir array:
 }
 ```
 
-**Aturan ID:** Gunakan format `"001"`, `"002"`, dst. ID harus unik. Saat ini tersedia 25 artikel (ID `001`–`025`), jadi penambahan berikutnya mulai dari `026`.
+**Aturan ID:** Gunakan format `"001"`, `"002"`, dst. ID harus unik. Saat ini tersedia 22 artikel (ID `001`–`012` untuk Pengetahuan Explicit dan `016`–`025` untuk Pengetahuan Tacit), jadi penambahan berikutnya dapat melanjutkan nomor ID yang tersedia.
 
 **Entri dari wawancara (tacit knowledge):** isi `source.type` dengan `"Community Reference (Tacit Knowledge)"`, tulis nama narasumber di `source.name`, dan cantumkan kontributor di field `contributor` serta `content.notes`.
 
