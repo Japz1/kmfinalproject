@@ -170,7 +170,7 @@ Proyek ini merupakan hasil kerja Kelompok 5 mata kuliah Knowledge Management Uni
 | **AL** | Leticia Lisi Alow | Pewawancara Tacit Knowledge |
 | **GH** | Gracia Nathalia Hutabarat | Pewawancara Tacit Knowledge |
 | **TT** | Tamariska Brigita Tumewan | Penulis Konten dan Editor Web |
-| **VD** | Vallerian Dava Dayoh | Desainer Web dan Uji Coba Pengguna |
+| **VD** | Vallerian Dava Dayoh | Pengembang Web dan UI/UX |
 
 ---
 
