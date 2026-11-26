@@ -1,0 +1,18 @@
+# Berkas dokumentasi internal dan referensi lokal
+Knowledge Base.md
+Panduan.md
+shade of blue.pdf
+
+# Sistem Operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor dan Lingkungan Kerja
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log
+*.log

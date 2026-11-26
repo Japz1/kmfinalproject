@@ -165,7 +165,7 @@ Proyek ini merupakan hasil kerja Kelompok 5 mata kuliah Knowledge Management Uni
 
 | Inisial | Nama Anggota | Peran |
 | :---: | :--- | :--- |
-| **SM** | Marcello Bryan Sijadi | Koordinator Proyek |
+| **SM** | Marcello Bryan Sijadi | Membantu Project |
 | **WF** | Florencia Nikita Naftalia Wangke | Pengumpul Pengetahuan Explicit |
 | **AL** | Leticia Lisi Alow | Pewawancara Tacit Knowledge |
 | **GH** | Gracia Nathalia Hutabarat | Pewawancara Tacit Knowledge |
